@@ -1,4 +1,4 @@
-# Gitcoin Passports Scorer API
+#Gitcoin Passports Scorer API
 
 The Gitcoin Passport API allows developers to integrate identity verification
 functionality into their applications. The API provides a simple way to read and
